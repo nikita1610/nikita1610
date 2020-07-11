@@ -7,4 +7,4 @@
 Here is something about me:
 - 💁‍♀️ Computer Science Graduate from JIIT.
 - 📖 Working on Python and SQL .
-- 📫 How to reach me: ![image not available](https://icon-icons.com/icon/linkedin-logo-square/134016 "Link to gif")(www.linkedin.com/in/nikita1610)
+- 📫 How to reach me: ![image not available](https://nextforme.com/wp-content/uploads/2018/11/linkedin-logo.png "Link to gif")(www.linkedin.com/in/nikita1610)
