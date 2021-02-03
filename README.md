@@ -17,10 +17,11 @@
 </div>
 </div>
 
-
+<div>
 <p align="center">
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nikita1610" />
 </p>
+</div> 
 
 <p align="center">
 <br>
