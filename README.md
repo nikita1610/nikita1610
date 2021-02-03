@@ -4,7 +4,7 @@
 -->
 <div class ='row'>
 <div class = 'col-6'> 
-<img align="left" height="250px"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img height="250px"  alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
  </div>
 
 <div class ='col-6'>
@@ -18,10 +18,8 @@
 </div>
 
 <div>
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/nikita1610" />
-</p>
-</div> 
+<img align="center" alt="visitors" src="https://gpvc.arturio.dev/nikita1610" /> 
+ </div>
 
 <p align="center">
 <br>
