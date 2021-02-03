@@ -4,8 +4,9 @@
 -->
 
 <!--<img align="right" height="270px" alt="GIF" src="https://i.gifer.com/JXA0.gif" /> -->
-<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/JXA0" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
-
+<p align ="right">
+ ![](https://i.gifer.com/JXA0.gif"Link to gif")
+</p>
 ### I am a Backend Software Engineer at Ziploan
 - 🔭 I’m currently working on my Python Django and basic data analysis :grin:
 - 🐍 I’m currently learning more about Python!.
