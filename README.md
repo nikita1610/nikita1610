@@ -5,7 +5,7 @@
 
 <!--<img align="right" height="270px" alt="GIF" src="https://i.gifer.com/JXA0.gif" /> -->
 <p align ="right">
- ![](https://i.gifer.com/JXA0.gif"Link to gif")
+ ![](https://i.gifer.com/JXA0.gif "Link to gif")
 </p>
 ### I am a Backend Software Engineer at Ziploan
 - 🔭 I’m currently working on my Python Django and basic data analysis :grin:
