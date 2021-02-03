@@ -3,7 +3,8 @@
 <!-- ![](https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966 "Link to gif")
 -->
 
-<img align="right" height="270px" alt="GIF" src="https://i.gifer.com/JXA0.gif" />
+<!--<img align="right" height="270px" alt="GIF" src="https://i.gifer.com/JXA0.gif" /> -->
+<div style="padding-top:75.000%;position:relative;"><iframe src="https://gifer.com/embed/JXA0" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 ### I am a Backend Software Engineer at Ziploan
 - 🔭 I’m currently working on my Python Django and basic data analysis :grin:
