@@ -22,5 +22,12 @@
 <a href="https://www.linkedin.com/in/nikita1610/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:jainnikita381@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://www.kaggle.com/nikitajain16"><img src="https://img.shields.io/badge/kaggle-icon.svg?&style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
-
 </p>
+
+<h2>ℹ️ &nbsp;Github Info</h2>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
+<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+</details>
