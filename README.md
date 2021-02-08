@@ -27,13 +27,13 @@
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 <p align="center" >
- <img height="40" src="images/python.jpeg">
+<img height="40" src="images/python.jpeg">
 <img height="40" src="images/django.png">
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/scala.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/plot_ly-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/databricks.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/metabase.svg"> </code>
+<img height="40" src="images/jupyter.png">
+<img height="40" src="images/c++.jpeg">
+<img height="40" src="images/numpy.png">
+<img height="40" src="images/pandas.png">
+<img height="40" src="images/mat.png">
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
