@@ -26,30 +26,9 @@
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
-<p align="center" >
-<img height="40" src="images/python.jpeg">
-<img height="40" src="images/django.png">
-<img height="40" src="images/jupyter.png">
-<img height="40" src="images/c++.jpeg">
-<img height="40" src="images/numpy.png">
-<img height="40" src="images/pandas.png">
-<img height="40" src="images/mat.png">
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/cloudera-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/gdal-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/redis-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>
-<code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/surgesh-ar21.svg"> </code>
-</p>
-
+ <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="50" height="50" title="Python"/> </a><a href="https://isocpp.org/" target="_blank"> <img src="images/c++.png" alt="c++" width="50" height="50" title="C++"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="50" height="50" title="CSS"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="50" height="50" title="HTML"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="50" height="50" title="MySQL"/></a>  <a href="https://docs.mongodb.com/" target="_blank"> <img src="images/mongodb.png" alt="mongo" width="50" height="50" title="MongoDb"/> </a> 
+ <a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="50" height="50" title="Django"/> </a><a href="https://numpy.org/doc/" target="_blank"> <img src="images/numpy.png" alt="numpy" width="80" height="50" title="Numpy"/> </a><a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="images/pandas.png" alt="pandas" width="50" height="50" title="Pandas"/> </a><a href="https://matplotlib.org/3.3.3/contents.html" target="_blank"> <img src="images/mat.png" alt="pandas" width="80" height="50" title="Matplotlib"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="50" height="50" title="GIT"/> </a>  <a href="https://tortoisesvn.net/" target="_blank"> <img src="images/svn1.png" alt="git" width="50" height="50" title="SVN"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="50" height="50" title="Linux"/> </a> 
  
  
 <h2>ℹ️ &nbsp;Github Info</h2>
