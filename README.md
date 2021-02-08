@@ -27,7 +27,7 @@
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 <p align="center" >
- <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg">
+ <img height="50" src="images/python.jpeg">
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/scala.svg"> </code>
